@@ -23,4 +23,7 @@ class ofApp : public ofBaseApp{
 
 		ofImage img;
 		int maxIterations;
+		float pMin, pMax;
+		// float pxInterval;
+		// float pyInterval;
 };
